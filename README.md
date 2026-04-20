@@ -6,9 +6,9 @@
 - **Topic:** Software Development Models & Methodologies
 
 ## Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your Student ID]
-- **Class:** [Your Class]
+- **Name:** Lynn
+- **Student ID:** R4J1300169
+- **Class:** Batch 3
 
 ## Assignment Overview
 
@@ -35,7 +35,7 @@ The assignment includes a written report, a comparison table, and a 10-12 minute
 
 ## Video Link
 
-> [Click here to watch the video presentation](PASTE_YOUR_VIDEO_LINK_HERE)
+> [Click here to watch the video presentation](vedio\Lynn.mkv)
 
 ## Comparison Table (Quick Reference)
 
